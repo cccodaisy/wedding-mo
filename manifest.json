@@ -1,0 +1,15 @@
+{
+  "short_name": "상민근영결혼식",
+  "name": "상민과 근영의 결혼식 청첩장",
+  "icons": [
+    {
+      "src": "favicon-16x16.png",
+      "type": "image/png",
+      "sizes": "16x16"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

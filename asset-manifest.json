@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.46cef12e.css",
+    "main.js": "/static/js/main.8647b0e3.js",
+    "static/media/SandollNeo04.ttf": "/static/media/SandollNeo04.f6aabdd16a08979f4581.ttf",
+    "static/media/YDWM05.ttf": "/static/media/YDWM05.550cd18a1b0677d6253a.ttf",
+    "static/media/main_1.jpg": "/static/media/main_1.3e5352508aeed1681345.jpg",
+    "static/media/3.jpg": "/static/media/3.920b1ead0e29457abf6f.jpg",
+    "static/media/6.jpg": "/static/media/6.2a1de3b3714147cfdabc.jpg",
+    "static/media/8.jpg": "/static/media/8.0c246d81cb4b6249a5ae.jpg",
+    "static/media/10.jpg": "/static/media/10.ace89bc98c5a29692595.jpg",
+    "static/media/5.jpg": "/static/media/5.36493eec9366689526fd.jpg",
+    "static/media/1.jpg": "/static/media/1.1fe714a4093326fc9ca9.jpg",
+    "static/media/4.jpg": "/static/media/4.66911a0794a64eed80e4.jpg",
+    "static/media/9.jpg": "/static/media/9.b5e4d589ca68956335af.jpg",
+    "static/media/2.jpg": "/static/media/2.2060ec6bd5d1ec5ed559.jpg",
+    "static/media/7.jpg": "/static/media/7.191c2b4287de27c86793.jpg",
+    "static/media/main_2.jpg": "/static/media/main_2.ed421ffd7c65f2f855cd.jpg",
+    "static/media/happy_wedding.png": "/static/media/happy_wedding.7ab83da21a9ffc9237ab.png",
+    "index.html": "/index.html",
+    "main.46cef12e.css.map": "/static/css/main.46cef12e.css.map",
+    "main.8647b0e3.js.map": "/static/js/main.8647b0e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46cef12e.css",
+    "static/js/main.8647b0e3.js"
+  ]
+}
