@@ -1,2 +1,2 @@
-# cccodaisy.github.io
+# wedding-mo
 sangmin and geunyoung wedding
